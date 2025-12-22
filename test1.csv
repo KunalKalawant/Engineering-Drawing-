@@ -1,0 +1,4 @@
+Item_No,Page,Detected_Text,Numbers_Found,Special_Characters,Content_Type,Confidence
+1,1,SCALE 1:2 [12],12,,Mixed Content,100%
+2,1,3X R.13/ 3.2 +,,,Text Document,75%
+3,1,No readable content,,,Unknown,50%
